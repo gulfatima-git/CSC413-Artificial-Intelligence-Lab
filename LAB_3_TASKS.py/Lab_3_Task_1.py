@@ -1,8 +1,6 @@
 #1. Represent a small graph problem using Python data structures. Define initial state, goal 
 #   state and valid actions.
 
-# States and valid actions are represented using a graph
-
 graph = {
     'A': ['B', 'C'],
     'B': ['D', 'E'],
